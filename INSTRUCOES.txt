@@ -1,0 +1,9 @@
+Configurações:
+
+Navegar até a pasta TDE
+
+Digitar no terminal - "npm install"
+
+Digitar no terminal - "ng serve"
+
+Acessar as url's - "http://localhost:4200/clock" ou "http://localhost:4200/clockAnalogic"
